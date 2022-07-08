@@ -77,6 +77,8 @@ http://192.168.5.1:4022/udp/238.1.79.65:4632
 http://192.168.5.1:4022/udp/238.1.78.168:7216
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视HD
 http://192.168.5.1:4022/udp/238.1.79.36:4400
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视HD
+http://192.168.5.1:4022/udp/238.1.79.48:4496
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽经视HD
 http://192.168.5.1:4022/udp/238.1.79.44:4464
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽影视HD
@@ -127,10 +129,6 @@ http://192.168.5.1:4022/udp/238.1.78.14:4016
 http://192.168.5.1:4022/udp/238.1.78.15:4024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",武侠剧场
 http://192.168.5.1:4022/udp/238.1.78.16:4032
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",爱生活
-http://192.168.5.1:4022/udp/238.1.78.17:4040
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",好学生
-http://192.168.5.1:4022/udp/238.1.78.18:4048
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",精选
 http://192.168.5.1:4022/udp/238.1.78.19:4056
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="IPTV",国学
@@ -151,8 +149,6 @@ http://192.168.5.1:4022/udp/238.1.78.253:7896
 http://192.168.5.1:4022/udp/238.1.78.23:6112
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云	
 http://192.168.5.1:4022/udp/238.1.78.81:6520
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="地方",哈哈炫动	
-http://192.168.5.1:4022/udp/238.1.78.82:6528
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",卡酷卡通	
 http://192.168.5.1:4022/udp/238.1.78.97:6648
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",金鹰卡通	
@@ -169,7 +165,17 @@ http://192.168.5.1:4022/udp/238.1.78.153:7096
 http://192.168.5.1:4022/udp/238.1.79.31:4360
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海豚少儿(付费)HD	
 http://192.168.5.1:4022/udp/238.1.79.32:4368
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海豚健康(付费)HD	
-http://192.168.5.1:4022/udp/238.1.79.33:4376
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海豚影视(付费)HD	
 http://192.168.5.1:4022/udp/238.1.79.34:4384
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",风云足球(付费)HD
+http://192.168.5.1:4022/udp/238.1.79.57:4592
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视",世界地理(付费)HD
+http://192.168.5.1:4022/udp/238.1.79.60:4616
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视",怀旧剧场(付费)HD
+http://192.168.5.1:4022/udp/238.1.79.61:4624
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视",风云剧场(付费)HD
+http://192.168.5.1:4022/udp/238.1.79.62:4632
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视",第一剧场(付费)HD
+http://192.168.5.1:4022/udp/238.1.79.63:4640
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",风云音乐(付费)HD
+http://192.168.5.1:4022/udp/238.1.79.64:4648
