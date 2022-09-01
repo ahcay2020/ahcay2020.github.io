@@ -79,6 +79,14 @@ http://192.168.5.1:4022/udp/238.1.78.168:7216
 http://192.168.5.1:4022/udp/238.1.79.36:4400
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视HD
 http://192.168.5.1:4022/udp/238.1.79.48:4496
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视HD
+http://192.168.5.1:4022/udp/238.1.81.9:8032
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视HD
+http://192.168.5.1:4022/udp/238.1.81.8:8028
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视HD
+http://192.168.5.1:4022/udp/238.1.81.10:8036
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通HD
+http://192.168.5.1:4022/udp/238.1.81.17:8064
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽经视HD
 http://192.168.5.1:4022/udp/238.1.79.44:4464
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽影视HD
