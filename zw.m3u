@@ -159,8 +159,6 @@ http://www.cyop.eu.org:4022/udp/238.1.78.23:6112
 http://www.cyop.eu.org:4022/udp/238.1.78.81:6520
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",卡酷卡通	
 http://www.cyop.eu.org:4022/udp/238.1.78.97:6648
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",金鹰卡通	
-http://www.cyop.eu.org:4022/udp/238.1.78.100:6672
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫秀场HD	
 http://www.cyop.eu.org:4022/udp/238.1.78.154:7104
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实HD	
