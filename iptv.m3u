@@ -185,5 +185,3 @@ http://192.168.5.1:4022/udp/238.1.79.62:4632
 http://192.168.5.1:4022/udp/238.1.79.63:4640
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",风云音乐(付费)HD
 http://192.168.5.1:4022/udp/238.1.79.64:4648
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="Sport",纬来体育HD
-http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
