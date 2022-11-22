@@ -185,5 +185,3 @@ http://192.168.5.1:4022/udp/238.1.79.62:4632
 http://192.168.5.1:4022/udp/238.1.79.63:4640
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",风云音乐(付费)HD
 http://192.168.5.1:4022/udp/238.1.79.64:4648
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5HDHD
-http://www.cyop.eu.org:4022/udp/238.1.78.237:7768
