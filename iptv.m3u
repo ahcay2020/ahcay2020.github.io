@@ -185,3 +185,7 @@ http://192.168.5.1:4022/udp/238.1.79.62:4632
 http://192.168.5.1:4022/udp/238.1.79.63:4640
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",风云音乐(付费)HD
 http://192.168.5.1:4022/udp/238.1.79.64:4648
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV 4k
+http://192.168.5.1:5678/cctv4k.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4k超高清电影
+http://192.168.5.1:5678/sxg.php
