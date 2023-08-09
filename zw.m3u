@@ -10,7 +10,7 @@ http://www.cyop.eu.org:4022/udp/238.1.78.236:7760
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5HD
 http://www.cyop.eu.org:4022/udp/238.1.78.171:7240
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+HD
-http://www.cyop.eu.org:4022/udp/238.1.81.30:8116
+http://www.cyop.eu.org:4022/udp/238.1.78.237:7768
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6HD
 http://www.cyop.eu.org:4022/udp/238.1.78.172:7248
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7HD
