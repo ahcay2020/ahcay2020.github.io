@@ -203,8 +203,6 @@ http://192.168.5.1:4022/udp/238.1.79.17:4248
 http://192.168.5.1:4022/udp/238.1.79.22:4288
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",梨园付费HD
 http://192.168.5.1:4022/udp/238.1.79.10:4192
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",文物付费HD
-http://192.168.5.1:4022/udp/238.1.79.16:4240
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",武术付费HD
 http://192.168.5.1:4022/udp/238.1.79.8:4176
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",华数热播剧场
