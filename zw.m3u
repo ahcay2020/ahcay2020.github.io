@@ -197,3 +197,29 @@ http://www.cyop.eu.org:4022/udp/238.1.79.56:4584
 http://www.cyop.eu.org:4022/udp/238.1.79.58:4600
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",CCTV央视台球HD
 http://www.cyop.eu.org:4022/udp/238.1.79.59:4608
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="IPTV",CHC动作电影付费HD
+http://www.cyop.eu.org:4022/udp/238.1.79.18:4256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CHC影迷电影付费HD
+http://www.cyop.eu.org:4022/udp/238.1.79.17:4248
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="IPTV",CHC家庭影院付费HD
+http://www.cyop.eu.org:4022/udp/238.1.79.22:4288
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",梨园付费HD
+http://www.cyop.eu.org:4022/udp/238.1.79.10:4192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",文物付费HD
+hhttp://www.cyop.eu.org:4022/udp/238.1.79.16:4240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",武术付费HD
+http://www.cyop.eu.org:4022/udp/238.1.79.8:4176
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",华数热播剧场
+http://www.cyop.eu.org:4022/udp/238.1.78.9:7976
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",华数少儿动画i
+http://www.cyop.eu.org:4022/udp/238.1.78.6:7952
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",华数谍战剧场
+http://www.cyop.eu.org:4022/udp/238.1.78.2:7920
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",华数古装剧场HD
+http://www.cyop.eu.org:4022/udp/238.1.78.12:4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",华数军旅剧场HD
+http://www.cyop.eu.org:4022/udp/238.1.78.11:7992
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动画HD
+http://www.cyop.eu.org:4022/udp/238.1.78.37:4088
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",光影HD
+http://www.cyop.eu.org:4022/udp/238.1.78.40:4112
