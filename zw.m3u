@@ -71,7 +71,7 @@ http://www.cyop.eu.org:4022/udp/238.1.78.159:7144
 http://www.cyop.eu.org:4022/udp/238.1.78.161:7160
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视HD
 http://www.cyop.eu.org:4022/udp/238.1.78.162:7168
-#EXTINF:-1 tvg-id="30" tvg-name="北京4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K
 http://www.cyop.eu.org:4022/udp/238.1.79.24:4304
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视HD
 http://www.cyop.eu.org:4022/udp/238.1.79.65:4632
