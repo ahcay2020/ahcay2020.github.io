@@ -71,8 +71,6 @@ http://192.168.5.1:4022/udp/238.1.78.159:7144
 http://192.168.5.1:4022/udp/238.1.78.161:7160
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视HD
 http://192.168.5.1:4022/udp/238.1.78.162:7168
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K
-http://192.168.5.1:4022/udp/238.1.79.24:4304
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视HD
 http://192.168.5.1:4022/udp/238.1.79.65:4632
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视HD
@@ -219,6 +217,8 @@ http://192.168.5.1:4022/udp/238.1.78.11:7992
 http://192.168.5.1:4022/udp/238.1.78.37:4088
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",光影HD
 http://192.168.5.1:4022/udp/238.1.78.40:4112
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K",北京卫视
+http://192.168.5.1:4022/udp/238.1.79.24:4304
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K",江苏卫视
 http://192.168.5.1:4022/udp/238.1.78.37:4088
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K",浙江卫视
