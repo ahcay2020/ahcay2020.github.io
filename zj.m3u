@@ -235,5 +235,4 @@ http://192.168.5.1:4022/udp/238.1.79.26:4320
 http://192.168.5.1:4022/udp/238.1.79.29:4344
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K",北京卫视4K
 http://192.168.5.1:4022/udp/238.1.79.24:4304
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="4K",河南卫视4K
-http://192.168.5.1:4022/udp/225.1.4.254:1300
+
