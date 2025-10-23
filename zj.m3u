@@ -156,7 +156,7 @@ http://192.168.5.1:4022/udp/238.1.78.253:7896
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",爱上4K	
 http://192.168.5.1:4022/udp/238.1.78.23:6112
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云	
-http://192.168.5.1:4022/udp/238.1.78.81:6520
+http://192.168.5.1:4022/udp/238.1.78.4:7936
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",卡酷卡通	
 http://192.168.5.1:4022/udp/238.1.78.97:6648
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫秀场HD	
@@ -169,10 +169,6 @@ http://192.168.5.1:4022/udp/238.1.78.151:7080
 http://192.168.5.1:4022/udp/238.1.78.153:7096
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓(付费)HD	
 http://192.168.5.1:4022/udp/238.1.79.31:4360
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海豚少儿(付费)HD	
-http://192.168.5.1:4022/udp/238.1.79.32:4368
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海豚影视(付费)HD	
-http://192.168.5.1:4022/udp/238.1.79.34:4384
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",风云足球(付费)HD
 http://192.168.5.1:4022/udp/238.1.79.57:4592
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视",世界地理(付费)HD
@@ -213,10 +209,6 @@ http://192.168.5.1:4022/udp/238.1.78.2:7920
 http://192.168.5.1:4022/udp/238.1.78.12:4000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",华数军旅剧场HD
 http://192.168.5.1:4022/udp/238.1.78.11:7992
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动画HD
-http://192.168.5.1:4022/udp/238.1.78.37:4088
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",光影HD
-http://192.168.5.1:4022/udp/238.1.78.40:4112
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="4K",东方卫视4K
 http://192.168.5.1:4022/udp/238.1.79.39:4428
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K",浙江卫视4K
